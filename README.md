@@ -1,5 +1,5 @@
 # PyTorch Tutorials
-Repository contains Various PyTorch tutorials
+Various PyTorch tutorials
 
 ### Files
 - *01_neural_network_introduction.py* - It is a simple feed-forward network. It takes the input, feeds it through several layers one after the other, and then finally gives the output. (https://pytorch.org/tutorials/beginner/blitz/neural_networks_tutorial.html)
